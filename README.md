@@ -2,6 +2,10 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/ef8c9080-73a1-4318-a462-e57a85b25b01/ReportSection?experience=power-bi
 
+### Dashboard view
+
+![image](https://github.com/user-attachments/assets/7e4fe4e6-6e67-4fa9-88a4-7529e1582ef9)
+
 ## Problem Statement
 
 This dashboard helps the online store is intended to answer CPO and CEO question regarding revenue, revenue trend, top customers and how much do they contribute to total revenue. 
@@ -16,13 +20,11 @@ b) In the meantime, store is not dependant of some particular customer - revenue
 
 c) Revenue has obvious seasonal trend and has significantly increased in September, October and November. Taking this into account, store management can consider increasing stock levels, especially for top sellong goods. 
 
-d) During analysis period (December 2010 - October 2011) store revenue has increased in 1,83 times - from 823 746,1 usd in January 2010 to 1 509 496,30 usd in November 2010. December was omitted in Revenue by month trend, since sales data in December is incomplete. 
+d) During analysis period (December 2010 - October 2011) store revenue has increased in 1,83 times - from 823 746,1 EUR in January 2010 to 1 509 496,30 EUR in November 2010. December was omitted in Revenue by month trend, since sales data in December is incomplete. 
 
 e) Top-selling countries for this Online store are Ireland, Netherlands and Germany. To reduce logistics costs and provide better logistics service, it may be useful to organize intermediate stock, to cover shipments for those countries.
 
-### Dashboard view
 
-![image](https://github.com/user-attachments/assets/7e4fe4e6-6e67-4fa9-88a4-7529e1582ef9)
 
 
 

@@ -22,6 +22,9 @@ e) Top-selling countries for this Online store are Ireland, Netherlands and Germ
 
 ### Dashboard view
 
+![image](https://github.com/user-attachments/assets/7e4fe4e6-6e67-4fa9-88a4-7529e1582ef9)
+
+
 
 
 
